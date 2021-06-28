@@ -1,3 +1,7 @@
+
+body{
+    cursor: url(../curseur.png),auto;
+}
 img{
     display: block;
     margin-left: auto;
@@ -7,3 +11,13 @@ img{
 a img{
     width: 50px;
 }
+
+
+#out:hover { cursor:url(../retour.png), auto; }
+#book:hover { cursor:url(../koi.png), auto; }
+#look:hover { cursor:url(../look.png), auto; }
+#go:hover { cursor:url(../go.png), auto; }
+#he:hover {cursor: url(../he.png), auto;}
+#table {cursor: url(../look.png), auto;}
+#zoom {cursor: url(../zoom.png),auto;}
+#toc {cursor: url(../toc.png), auto;}
